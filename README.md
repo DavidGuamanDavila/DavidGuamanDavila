@@ -8,5 +8,6 @@
 - 📫 How to reach me: [adavidguamandavila@gmail.com](mailto:adavidguamandavila@gmail.com)
 - 📗 My Resume: [David Guaman Davila's Resume](https://github.com/DavidGuamanDavila/David_Guaman_Davila_Resume/blob/main/Anton_David_Guaman_Davila_s_Resume_Fall_2023.pdf)
 - 😄 Pronouns: he/him
+- :globe_with_meridians: Check out my [Portfolio Website](https://davidguamandavila.github.io/)
 - ⚡ Fun fact: I'm from Quito, Ecuador
 
